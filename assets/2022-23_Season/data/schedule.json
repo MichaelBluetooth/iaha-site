@@ -1,0 +1,630 @@
+{
+  "goale_schedule": "assets/2022-23_Season/docs/IAHA_2022-23_goalie_schedule.pdf",
+  "team_schedule": "assets/2022-23_Season/docs/IAHA_2022-23_schedule.pdf",
+  "games": [
+    {
+      "date": "2022-10-30T11:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-10-30T12:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-10-31T13:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-01T13:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-02T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-03T13:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-06T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-06T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-07T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-08T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-09T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-10T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-13T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-13T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-14T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-15T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-16T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-17T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-20T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-20T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-21T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-22T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-27T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-27T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-28T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-29T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-11-30T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-01T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-04T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-04T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-05T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-06T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-07T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-08T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-11T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-11T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-12T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-13T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-14T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-15T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-18T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-18T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-19T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-20T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-21T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2022-12-22T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-02T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-03T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-04T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-05T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-08T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-08T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-09T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-10T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-11T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-12T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-15T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-15T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-16T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-17T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-18T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-19T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-22T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-22T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-23T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-24T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-25T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-26T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-29T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-29T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Kirbylab Microfluidics",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-30T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Rotary Club of Ithaca",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-01-31T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Maguire Family of Dealerships",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-02-01T14:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Instant Replay Sports",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-02-02T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Frank Lee Flyers",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-02-05T12:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Kirbylab Microfluidics",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-02-05T13:45:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Frank Lee Flyers",
+      "teamB": "Five & 20 Spirits",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-02-06T14:30:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Maguire Family of Dealerships",
+      "teamB": "Rotary Club of Ithaca",
+      "teamAScore": null,
+      "teamBScore": null
+    },
+    {
+      "date": "2023-02-07T14:15:00.000Z",
+      "location": "Cass Park",
+      "teamA": "Five & 20 Spirits",
+      "teamB": "Instant Replay Sports",
+      "teamAScore": null,
+      "teamBScore": null
+    }
+  ]
+}
