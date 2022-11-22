@@ -1,0 +1,52 @@
+{
+  "sponsors": [
+    {
+      "name": "Five & 20 Spirits & Brewing",
+      "address": "8398 WEST MAIN ROAD (ROUTE 20), Westfield",
+      "website": "https://fiveand20.com/",
+      "phone": "716-793-946",
+      "email": null,
+      "logo": "assets/2022-23_Season/images/sponsors/5_and_20_spirits.png"
+    },
+    {
+      "name": "Instant Replay Sports",
+      "address": "2255 N. Triphammer Road, Ithaca",
+      "website": "https://www.facebook.com/InstantReplay14850/",
+      "phone": "607-277-7366",
+      "email": "info1@instantreplaysports.info",
+      "logo": "assets/2022-23_Season/images/sponsors/instant_replay.jpg"
+    },
+    {
+      "name": "James Orcutt Real Estate, LLC.",
+      "address": "324 Dryden Road, Ithaca",
+      "website": "https://www.jamesorcutt.com/",
+      "phone": "607-277-4723",
+      "email": "info@jamesorcutt.com",
+      "logo": "assets/2022-23_Season/images/sponsors/orcutt_real_estate.jpg"
+    },
+    {
+      "name": "Lightspeed Tele/Data Networks",
+      "address": null,
+      "website": "https://www.facebook.com/lightspeedteledata/",
+      "phone": "607-533-9100",
+      "email": "ed@lightspeedteledata.com",
+      "logo": "assets/2022-23_Season/images/sponsors/light_speed.png"
+    },
+    {
+      "name": "Maguire Family of Dealerships",
+      "address": "370 Elmira Road, Ithaca",
+      "website": "https://www.maguirecars.com/",
+      "phone": "607-257-1515",
+      "email": null,
+      "logo": "assets/2022-23_Season/images/sponsors/maguire.jpg"
+    },
+    {
+      "name": "Rotary Club of Ithaca",
+      "address": " PO Box 306, Ithaca",
+      "website": null,
+      "phone": null,
+      "email": null,
+      "logo": "assets/2022-23_Season/images/sponsors/rotary.png"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<div class="card shadow">
+  <div class="card-body">
+    <h2 class="card-title">Standings</h2>
+    <div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>PTS</th>
+            <th>GP</th>
+            <th>W</th>
+            <th>L</th>
+            <th>OT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let team of teams | sortByPoints">
+            <td>
+              <img [src]="team.logo" [title]="team.name" height="20px" />
+            </td>
+            <td>
+              {{ team.wins * 2 + team.ties }}
+            </td>
+            <td>
+              {{ team.games_played }}
+            </td>
+            <td>
+              {{ team.wins }}
+            </td>
+            <td>
+              {{ team.losses }}
+            </td>
+            <td>
+              {{ team.ties }}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

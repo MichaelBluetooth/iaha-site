@@ -1,0 +1,41 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.left-panel {
+  order: 3;
+  width: 100%;
+}
+
+.featured-panel {
+  order: 1;
+  width: 100%;
+}
+
+.right-panel {
+  order: 2;
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .left-panel {
+    order: 1;
+    width: 18%;
+  }
+
+  .featured-panel {
+    order: 1;
+    width: 55%;
+  }
+
+  .right-panel {
+    order: 2;
+    width: 27%;
+  }
+}

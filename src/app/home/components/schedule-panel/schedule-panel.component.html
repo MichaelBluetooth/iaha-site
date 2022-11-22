@@ -1,0 +1,32 @@
+<div class="card shadow">
+  <div class="card-body">
+    <h2 class="card-title mb-3" routerLink="schedule">Schedule</h2>
+
+    <div class="d-flex gap-4 mb-4" *ngFor="let game of todaysGames" style="font-size: 15px">
+      <div class="d-flex flex-column gap-2" style="width: 50%">
+        <div class="d-flex align-items-center gap-2">
+          <img [src]="game.teamA | teamLogo" height="25px">
+          {{game.teamA}}
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <img [src]="game.teamB | teamLogo" height="25px">
+          {{game.teamB}}
+        </div>
+      </div>
+      <div class="d-flex align-items-center">
+        {{game.date | date:'short'}}
+      </div>
+    </div>
+
+    <div class="d-flex flex-column gap-3">
+      <a href="/assets/IAHA_2022-23_schedule.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        2022-23 Complete Game Schedule
+      </a>
+      <a href="/assets/IAHA_2022-23_goalie_schedule.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        Goalie Schedule
+      </a>
+    </div>
+  </div>
+</div>

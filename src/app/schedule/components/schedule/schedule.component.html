@@ -1,0 +1,38 @@
+<div class="container mt-3">
+  <h1 class="fs-1 border-bottom">Schedule</h1>
+  <ng-container *ngFor="let gameDay of games | groupGamesByDay">
+    <div class="p-2" [id]="gameDay.date | date:'fullDate'" [class.highlight]="gameDay.date | isToday">
+      <div class="fs-6 fw-bold">{{gameDay.date | date: 'fullDate'}}</div>
+      <table class="table table-responsive">
+        <thead>
+          <tr>
+            <th class="team-column">Matchup</th>
+            <th class="vs-column"></th>
+            <th class="team-column"></th>
+            <th class="time-column">Time</th>
+            <th class="location-column">Location</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let game of gameDay.games">
+            <td class="team-column">
+              <img class="d-none d-lg-inline me-2" [src]="game.teamA | teamLogo" height="25px">
+              <span>{{ game.teamA }}</span>
+            </td>
+            <td class="vs-column">vs.</td>
+            <td class="team-column">
+              <img class="d-none d-lg-inline me-2" [src]="game.teamB | teamLogo" height="25px">
+              <span>{{ game.teamB }}</span>
+            </td>
+            <td class="time-column">
+              {{ game.date | date: "short" }}
+            </td>
+            <td class="location-column">
+              {{game.location}}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </ng-container>
+</div>

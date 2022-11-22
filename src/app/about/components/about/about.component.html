@@ -1,0 +1,66 @@
+<div class="container mt-4">
+  <h1 class="border-bottom">About</h1>
+  <p>
+    The Ithaca Adult Hockey Association was formed during the summer of 1999 by
+    a group of players from both the Cass Park and the Rink leagues. The primary
+    goal of IAHA is to promote a healthy and fun recreational adult hockey
+    league in Ithaca by providing oversight of the league administration,
+    improving parity among teams, promoting sportsmanship, and encouraging
+    players at all skill levels to participate.
+  </p>
+
+  <p>
+    For the 2022-23 season, IAHA will offer a B/C Division only. An A/B Division
+    is being organized by the Community Recreation Center. For information about
+    A/B, email Alex Hayes at
+    <a class="fw-bold" href="mailto:alexander.hayes@gmail.com"
+      >alexander.hayes@gmail.com</a
+    >
+  </p>
+
+  <h2 class="border-bottom">Registration Materials and Docs</h2>
+  <div class="mb-3">
+    <div>
+      <a href="/assets/IAHA_2022-23_Rosters.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        2022-23 Team Rosters
+      </a>
+    </div>
+    <div>
+      <a href="/assets/IAHA_2022-23_schedule.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        2022-23 Complete Game Schedule
+      </a>
+    </div>
+    <div>
+      <a href="/assets/IAHA_2022-23_goalie_schedule.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        Goalie Schedule
+      </a>
+    </div>
+    <div>
+      <a href="/assets/IAHA_2022-23_League_and_Registration.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        League and Registration Information
+      </a>
+    </div>
+    <div>
+      <a href="/assets/Disciplinary_Policy.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        IAHA Disciplinary Policy (9/24/2022)
+      </a>
+    </div>
+    <div>
+      <a href="/assets/ITHACA_ADULT_HOCKEY_ASSOCIATION_COVID.pdf" download>
+        <i class="bx bxs-file-pdf"></i>
+        2022-23 COVID-19 Liability Waiver and Assumption of Risk
+      </a>
+    </div>
+  </div>
+
+  <h2 class="border-bottom">IAHA Board of Directors</h2>
+  <div *ngFor="let member of boardMembers">
+    <span class="fw-bold">{{ member.name }}</span> -
+    <a [href]="'mailto:' + member.email">{{ member.email }}</a>
+  </div>
+</div>

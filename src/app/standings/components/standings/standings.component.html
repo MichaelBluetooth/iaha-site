@@ -1,0 +1,72 @@
+<div class="container table-responsive mt-3">
+  <h1 class="fs-1 border-bottom">Standings</h1>
+  <table class="table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>
+          Team
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Points">PTS</span>
+          <span class="d-none d-lg-block">Points</span>
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Games Played">GP</span>
+          <span class="d-none d-lg-block">Games Played</span>
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Wins">W</span>
+          <span class="d-none d-lg-block">Wins</span>
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Losses">L</span>
+          <span class="d-none d-lg-block">Losses</span>
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Overtime">OT</span>
+          <span class="d-none d-lg-block">Overtime</span>
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Goals For">GF</span>
+          <span class="d-none d-lg-block">Goals For</span>
+        </th>
+        <th>
+          <span class="d-md-block d-lg-none" title="Goals Against">GA</span>
+          <span class="d-none d-lg-block">Goals Against</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let team of teams | sortByPoints">
+        <td>
+          <img [src]="team.logo" [title]="team.name" height="20px" />
+        </td>
+        <td>
+          {{ team.name }}
+        </td>
+        <td>
+          {{ team.wins * 2 + team.ties }}
+        </td>
+        <td>
+          {{ team.games_played }}
+        </td>
+        <td>
+          {{ team.wins }}
+        </td>
+        <td>
+          {{ team.losses }}
+        </td>
+        <td>
+          {{ team.ties }}
+        </td>
+        <td>
+          {{ team.goals_for }}
+        </td>
+        <td>
+          {{ team.goals_against }}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
