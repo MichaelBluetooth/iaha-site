@@ -3,22 +3,22 @@
     {
       "name": "Instant Replay Sports",
       "logo": "assets/2022-23_Season/images/teams/instantreplay_logo.png",
-      "games_played": 6,
+      "games_played": 7,
       "wins": 1,
-      "losses": 3,
-      "ties": 2,
-      "goals_for": 14,
-      "goals_against": 26
+      "losses": 4,
+      "ties": 22,
+      "goals_for": 15,
+      "goals_against": 33
     },
     {
       "name": "Maguire Family of Dealerships",
       "logo": "assets/2022-23_Season/images/teams/maguire_logo.jpg",
-      "games_played": 6,
+      "games_played": 7,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 1,
-      "goals_for": 21,
-      "goals_against": 14
+      "goals_for": 26,
+      "goals_against": 22
     },
     {
       "name": "Five & 20 Spirits",
@@ -33,22 +33,22 @@
     {
       "name": "Kirbylab Microfluidics",
       "logo": "assets/2022-23_Season/images/teams/kirbylab_logo.jpg",
-      "games_played": 6,
-      "wins": 1,
+      "games_played": 7,
+      "wins": 2,
       "losses": 4,
       "ties": 1,
-      "goals_for": 30,
-      "goals_against": 34
+      "goals_for": 37,
+      "goals_against": 35
     },
     {
       "name": "Rotary Club of Ithaca",
       "logo": "assets/2022-23_Season/images/teams/rotary_logo.png",
-      "games_played": 6,
-      "wins": 6,
+      "games_played": 7,
+      "wins": 7,
       "losses": 0,
       "ties": 0,
-      "goals_for": 44,
-      "goals_against": 18
+      "goals_for": 52,
+      "goals_against": 23
     },
     {
       "name": "Frank Lee Flyers",
