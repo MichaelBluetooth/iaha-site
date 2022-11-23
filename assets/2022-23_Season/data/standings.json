@@ -6,7 +6,7 @@
       "games_played": 7,
       "wins": 1,
       "losses": 4,
-      "ties": 22,
+      "ties": 2,
       "goals_for": 15,
       "goals_against": 33
     },
@@ -23,42 +23,42 @@
     {
       "name": "Five & 20 Spirits",
       "logo": "assets/2022-23_Season/images/teams/5_and_20_logo.png",
-      "games_played": 6,
+      "games_played": 7,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 1,
-      "goals_for": 17,
-      "goals_against": 20
+      "goals_for": 20,
+      "goals_against": 24
     },
     {
       "name": "Kirbylab Microfluidics",
       "logo": "assets/2022-23_Season/images/teams/kirbylab_logo.jpg",
-      "games_played": 7,
+      "games_played": 8,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 1,
-      "goals_for": 37,
-      "goals_against": 35
+      "goals_for": 40,
+      "goals_against": 41
     },
     {
       "name": "Rotary Club of Ithaca",
       "logo": "assets/2022-23_Season/images/teams/rotary_logo.png",
-      "games_played": 7,
-      "wins": 7,
+      "games_played": 8,
+      "wins": 8,
       "losses": 0,
       "ties": 0,
-      "goals_for": 52,
-      "goals_against": 23
+      "goals_for": 58,
+      "goals_against": 26
     },
     {
       "name": "Frank Lee Flyers",
       "logo": "assets/2022-23_Season/images/teams/frank_lee_logo.png",
-      "games_played": 6,
-      "wins": 1,
+      "games_played": 7,
+      "wins": 2,
       "losses": 4,
       "ties": 1,
-      "goals_for": 19,
-      "goals_against": 33
+      "goals_for": 23,
+      "goals_against": 36
     }
   ]
 }
